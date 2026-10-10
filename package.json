@@ -1,0 +1,19 @@
+
+{
+  "name": "ikea",
+  "version": "1.0.0",
+  "description": "Prueba automatizada de validación de correo electrónico utilizando Playwright y TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:e2e": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "typescript": "^7.0.2"
+  }
+}
