@@ -10,6 +10,7 @@ Pruebas automatizadas de la plataforma IKEA República Dominicana utilizando **P
 ## Instalación
 
 ```bash
+git clone https://github.com/Unicorn-Way/Prueba-IKEA---QA-especialist.git
 npm install
 npx playwright install chromium
 ```
